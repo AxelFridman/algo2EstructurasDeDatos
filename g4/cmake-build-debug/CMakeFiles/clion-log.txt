@@ -1,0 +1,58 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/imac/Documents/GitHub2/algo2-2021c2-individual/g4
+-- The C compiler identification is AppleClang 12.0.0.12000032
+-- The CXX compiler identification is AppleClang 12.0.0.12000032
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /Library/Developer/CommandLineTools/usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+CMake Error at CMakeLists.txt:20 (add_executable):
+  Cannot find source file:
+
+    tests/string_map_tests.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .h .hh .h++
+  .hm .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .ispc
+
+
+CMake Error at CMakeLists.txt:11 (add_library):
+  Cannot find source file:
+
+    tests/gtest-1.8.1/gtest_main.cc
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .h .hh .h++
+  .hm .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .ispc
+
+
+CMake Error at CMakeLists.txt:10 (add_library):
+  Cannot find source file:
+
+    tests/gtest-1.8.1/gtest-all.cc
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .h .hh .h++
+  .hm .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .ispc
+
+
+CMake Error at CMakeLists.txt:20 (add_executable):
+  No SOURCES given to target: correrTests_ext
+
+
+CMake Error at CMakeLists.txt:19 (add_executable):
+  No SOURCES given to target: correrTests
+
+
+CMake Error at CMakeLists.txt:11 (add_library):
+  No SOURCES given to target: gtest_main
+
+
+CMake Error at CMakeLists.txt:10 (add_library):
+  No SOURCES given to target: gtest
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
