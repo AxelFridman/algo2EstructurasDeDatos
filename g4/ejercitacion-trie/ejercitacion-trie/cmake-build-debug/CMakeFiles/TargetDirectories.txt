@@ -1,7 +1,0 @@
-/Users/imac/Documents/GitHub2/algo2-2021c2-individual/g4/ejercitacion-trie/ejercitacion-trie/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/imac/Documents/GitHub2/algo2-2021c2-individual/g4/ejercitacion-trie/ejercitacion-trie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/imac/Documents/GitHub2/algo2-2021c2-individual/g4/ejercitacion-trie/ejercitacion-trie/cmake-build-debug/CMakeFiles/correrValgrind.dir
-/Users/imac/Documents/GitHub2/algo2-2021c2-individual/g4/ejercitacion-trie/ejercitacion-trie/cmake-build-debug/CMakeFiles/correrTests_ext.dir
-/Users/imac/Documents/GitHub2/algo2-2021c2-individual/g4/ejercitacion-trie/ejercitacion-trie/cmake-build-debug/CMakeFiles/correrTests.dir
-/Users/imac/Documents/GitHub2/algo2-2021c2-individual/g4/ejercitacion-trie/ejercitacion-trie/cmake-build-debug/CMakeFiles/gtest_main.dir
-/Users/imac/Documents/GitHub2/algo2-2021c2-individual/g4/ejercitacion-trie/ejercitacion-trie/cmake-build-debug/CMakeFiles/gtest.dir
