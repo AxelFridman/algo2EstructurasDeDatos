@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6875103f-f920-449a-9152-86b8220c318d" name="Changes" comment="asd">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ejercitacion-trie.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/.github/workflows/algo2.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/CMakeRuleHashes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/correrTests.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/correrTests.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/correrTests.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/correrTests.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/correrTests.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/correrTests.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/correrTests.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/correrTests.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/correrTests.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/correrTests_ext.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/correrTests_ext.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/correrTests_ext.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/correrTests_ext.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/correrTests_ext.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/correrTests_ext.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/correrTests_ext.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/correrValgrind.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/correrValgrind.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/correrValgrind.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/correrValgrind.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/correrValgrind.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/correrValgrind.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/gtest.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/gtest.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/gtest.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/gtest.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/gtest.dir/cmake_clean_target.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/gtest.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/gtest.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/gtest.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/gtest.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/gtest.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/gtest_main.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/gtest_main.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/gtest_main.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/gtest_main.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/gtest_main.dir/cmake_clean_target.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/gtest_main.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/gtest_main.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/gtest_main.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/gtest_main.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/gtest_main.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/cmake-build-debug/taller_trie.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/src/string_map.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/src/string_map.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/tests/gtest-1.8.1/gtest-all.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/tests/gtest-1.8.1/gtest.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/tests/gtest-1.8.1/gtest_main.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercitacion-trie/tests/string_map_tests.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taller_trie.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="20Vdm1cxObKSggAxkkIIabRKckJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RunManager" selected="Google Test.string_map_test.erase">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="string_map_test.TrieDeTries" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="correrTests" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="correrTests" TEST_CLASS="string_map_test" TEST_METHOD="TrieDeTries" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="string_map_test.copiar" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="correrTests" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="correrTests" TEST_CLASS="string_map_test" TEST_METHOD="copiar" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="string_map_test.erase" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="correrTests" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="correrTests" TEST_CLASS="string_map_test" TEST_METHOD="erase" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="string_map_test.eraseUnicaClave" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="correrTests" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="correrTests" TEST_CLASS="string_map_test" TEST_METHOD="eraseUnicaClave" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="string_map_test.no_aliasing" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="correrTests" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="correrTests" TEST_CLASS="string_map_test" TEST_METHOD="no_aliasing" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Google Test.string_map_test.copiar" />
+      <item itemvalue="Google Test.string_map_test.no_aliasing" />
+      <item itemvalue="Google Test.string_map_test.TrieDeTries" />
+      <item itemvalue="Google Test.string_map_test.eraseUnicaClave" />
+      <item itemvalue="Google Test.string_map_test.erase" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Google Test.string_map_test.erase" />
+        <item itemvalue="Google Test.string_map_test.eraseUnicaClave" />
+        <item itemvalue="Google Test.string_map_test.TrieDeTries" />
+        <item itemvalue="Google Test.string_map_test.no_aliasing" />
+        <item itemvalue="Google Test.string_map_test.copiar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6875103f-f920-449a-9152-86b8220c318d" name="Changes" comment="" />
+      <created>1636133843747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636133843747</updated>
+      <workItem from="1636133845307" duration="7454000" />
+      <workItem from="1636226580510" duration="11403000" />
+      <workItem from="1636290244436" duration="10970000" />
+    </task>
+    <task id="LOCAL-00001" summary="asd">
+      <created>1636302199744</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636302199744</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="asd" />
+    <option name="LAST_COMMIT_MESSAGE" value="asd" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ejercitacion-trie/src/string_map.hpp</url>
+          <line>139</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
