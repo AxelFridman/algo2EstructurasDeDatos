@@ -21,11 +21,13 @@ Lista::~Lista() {
     }
     else{
             Nodo* ultimoNodo = punteroFinal;
-            Nodo* anteriorAlUltimo = punteroFinal->punteroAtras;
-            while(anteriorAlUltimo != nullptr){
-                delete ultimoNodo;
-                ultimoNodo = anteriorAlUltimo;
-                anteriorAlUltimo = ultimoNodo->punteroAtras;
+            if(longitud()>1) {
+                Nodo* anteriorAlUltimo = punteroFinal->punteroAtras;
+                while (anteriorAlUltimo != nullptr) {
+                    delete ultimoNodo;
+                    ultimoNodo = anteriorAlUltimo;
+                    anteriorAlUltimo = ultimoNodo->punteroAtras;
+                }
             }
             delete punteroInicial;
     }
@@ -51,6 +53,7 @@ void Lista::agregarAdelante(const int& elem) {
     Nodo* nuevo = new Nodo;
     nuevo->dato=elem;
     nuevo->punteroAdelante= punteroInicial;
+    nuevo->punteroAtras= nullptr;
     if(longi>0){
         punteroInicial->punteroAtras = nuevo;
     }
@@ -65,6 +68,8 @@ void Lista::agregarAtras(const int& elem) {
     Nodo* nuevo = new Nodo;
     nuevo->dato=elem;
     nuevo->punteroAtras= punteroFinal;
+    nuevo->punteroAdelante= nullptr;
+
     if(longi>0){
         punteroFinal->punteroAdelante = nuevo;
     }
