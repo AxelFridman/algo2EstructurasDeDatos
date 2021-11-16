@@ -1,0 +1,10 @@
+In file included from ./Lista.h:103:0,
+                 from ../../../../../../taller2/lista_tests.cpp:2:
+./Lista.hpp: In member function ‘const int& Lista::iesimo(Nat) const’:
+./Lista.hpp:133:15: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     while(cont<i) {
+           ~~~~^~
+./Lista.hpp: In member function ‘int& Lista::iesimo(Nat)’:
+./Lista.hpp:143:15: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     while(cont<i) {
+           ~~~~^~
